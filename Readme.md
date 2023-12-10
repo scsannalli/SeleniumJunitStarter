@@ -4,7 +4,7 @@
 
 ### clone the project
 ```
-git clone 
+git clone https://github.com/scsannalli/SeleniumJunitStarter.git
 ```
 
 ### start the demo app
